@@ -1,5 +1,3 @@
-
-
 f = open('puzzle1input.txt', 'r')
 lines = f.readlines()
 calNums = []
